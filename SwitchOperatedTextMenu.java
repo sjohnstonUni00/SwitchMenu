@@ -18,6 +18,7 @@ public class SwitchOperatedTextMenu {
       switch(menuItem){
 	case 1:
 	  System.out.println("You've chossen item #1");
+	  System.Out.PrintIn("My name is Daniel Cunningham.")
 	  break;
 	case 2:
 	  System.out.println("You've choosen item #2");
